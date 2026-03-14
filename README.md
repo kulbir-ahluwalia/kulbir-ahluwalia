@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><strong>Ph.D. Candidate in Computer Science @ UIUC 🌽🤖</strong></p>
-  <i>"Scaling up Physical AI for advancing humanity."</i>
+  <i>"Scaling up Physical AI for advancing humanity"</i>
 </div>
 
 ---
