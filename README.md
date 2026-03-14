@@ -12,12 +12,3 @@ Welcome! I'm a Ph.D. candidate at the University of Illinois, Urbana-Champaign (
 My mission is scaling up **Physical AI**. I build autonomous systems that bridge SOTA Vision-Language Models (VLMs) with time-tested control theory and path planning. My focus? Unstructured, **OUTDOOR In-the-Wild environments** for agricultural and mobile robots. I want robots that think semantically, reason spatially and recover autonomously from any navigation failures without most luxuries of an indoor lab such as stable internet, cameras, lighting, power supplies, no occlusions, or perfectly flat floors.
 
 I thrive on building fast, full-stack robotics solutions on real Mobile Manipulators using **ROS 2, PyTorch, C++, and Python**. Beyond robotics research, I’m deeply passionate about Thinking AI Agents that run on the edge, robot hardware design, LiFePO4 batteries, and solar power. I also care deeply about teaching, having contributed to UIUC's CS-498 Mobile Robotics course and served as TA for Prof. Svetlana Lazebnik's CS444: Deep Learning for Computer Vision (Spring '24, '25, '26). I am a veteran PhD student with years of experience with Mobile Edge deployable Robots & Visual Language Models that work in tandem with classical controllers and path planning algorithms.
-
-## 📊 GitHub Links & Connect
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kulbir-ahluwalia/kulbir-ahluwalia/main/github-metrics.svg" alt="Kulbir's Advanced GitHub metrics" width="800" />
-</p>
-
-<p align="center">
-  🌍 <a href="https://kulbir-singh-ahluwalia.com">Personal Website</a> • 🎓 <a href="https://scholar.google.com/citations?user=rXq-2HYAAAAJ">Google Scholar</a> • 🏠 <a href="https://hmr-lab.github.io/">HMR Lab @ UIUC</a>
-</p>
