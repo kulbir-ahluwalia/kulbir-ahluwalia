@@ -11,8 +11,7 @@ Welcome! I'm a Ph.D. candidate in Computer Science at the University of Illinois
 
 My research is dedicated to scaling up **Physical AI**: Focusing on natural language grounding, visual navigation, and Multi-Modal Vision-Language Models (MLLMs) for agricultural and mobile robots. By bridging SOTA CV and NLP Models with real-world robotics, I aim to build autonomous systems that can reliably solve critical challenges in unstructured OUTDOOR In-the-Wild environments that can reason spatially and recover from navigation failures autonomously. [I do not like papers with a nice indoor environment, nice lighting, nice fixed cameras, nice fixed robot arms with stable power supplies, nice stable wifi, dozens of *limits* & *custom constraints*.]. 
 
-I actively develop state-of-the-art NLP and Computer Vision pipelines on Real Mobile Manipulator Robots, working extensively with **ROS 2, PyTorch, C++, and Python**. Beyond research, I'm passionate about education, having co-developed UIUC's CS-498 Mobile Robotics course, and I thrive in building fast, scalable software from deep learning architectures to Android operator applications.
-
+I actively develop state-of-the-art NLP and Computer Vision pipelines on Real Mobile Manipulator Robots, working extensively with **ROS 2, PyTorch, C++, and Python**. Beyond research, I'm passionate about education, having co-developed UIUC's CS-498 Mobile Robotics course, and I thrive in building fast, scalable software from Hardware to mobile Edge deployable Visual Language Models that work in tandem with classical controllers and path planning algorithms.
 ## 📊 GitHub Links & Connect
 <p align="center">
   <a href="https://github.com/kulbir-ahluwalia">
