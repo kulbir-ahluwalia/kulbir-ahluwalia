@@ -7,29 +7,22 @@
 
 ---
 
-Welcome to my GitHub profile! I'm currently pursuing my Ph.D. in Computer Science at the University of Illinois, Urbana-Champaign (UIUC), advised by Prof. Girish Chowdhary (DASLAB) and Prof. Julia Hockenmaier. 
+Welcome! I'm a Ph.D. candidate in Computer Science at the University of Illinois, Urbana-Champaign (UIUC), advised by Prof. Girish Chowdhary and Prof. Julia Hockenmaier at the Distributed Autonomous Systems Laboratory (DASLAB). 
 
-My research sits at the exciting intersection of **Mobile Robotics, Natural Language Processing**, and **Computer Vision**—with a strong focus on natural language grounding for agricultural robots. Prior to UIUC, I earned my Master of Engineering in Robotics from the University of Maryland.
+My research is dedicated to scaling up **Physical AI**—focusing on natural language grounding, visual navigation, and Multi-Modal Vision-Language Models (MLLMs) for agricultural and mobile robots. By bridging advanced AI with real-world robotics, I aim to build autonomous systems that can reliably solve critical challenges in unstructured environments.
 
-## 🚀 What I Do
-- 🌾 **Agricultural Robotics**: Advancing autonomous systems and field robots (DASLAB).
-- 🧠 **AI & LLMs**: Building natural language-conditioned waypoint generation pipelines & MLLM reasoning engines.
-- ⚙️ **Systems Engineering**: Implementing SOTA NLP and CV pipelines for Mobile Manipulators using ROS/ROS 2.
-- 👨‍🏫 **Teaching**: Co-developer of UIUC's CS-498-GC Mobile Robotics course.
+I actively develop state-of-the-art NLP and Computer Vision pipelines, working extensively with **ROS 2, PyTorch, C++, and Python**. Beyond research, I'm passionate about education, having co-developed UIUC's CS-498 Mobile Robotics course, and I thrive in building fast, scalable software from deep learning architectures to Android operator applications.
 
-## 🛠️ Tech Stack & Tools
-- **Languages**: Python, C++, Java, JavaScript, Bash
-- **AI/ML**: PyTorch, HuggingFace, Multi-Modal Vision-Language Models (like Qwen A3B)
-- **Robotics**: ROS / ROS 2, Physical Simulations, Robotic Systems Architecture
-
-## 📊 GitHub Stats
+## 📊 GitHub Links & Connect
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kulbir-ahluwalia&show_icons=true&theme=radium" alt="Kulbir's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulbir-ahluwalia&layout=compact&theme=radium" alt="Top Langs" />
+  <a href="https://github.com/kulbir-ahluwalia">
+    <img src="https://github-readme-stats.vercel.app/api?username=kulbir-ahluwalia&show_icons=true&theme=radium&hide_border=true" alt="Kulbir's GitHub stats" />
+  </a>
+  <a href="https://github.com/kulbir-ahluwalia">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulbir-ahluwalia&layout=compact&theme=radium&hide_border=true" alt="Top Langs" />
+  </a>
 </p>
 
-## 🌐 Connect with me
-- 🌍 [Personal Website](https://kulbir-singh-ahluwalia.com)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=rXq-2HYAAAAJ)
-
-Let's collaborate on open-source robotics and push the boundaries of Physical AI! ✨
+<p align="center">
+  🌍 <a href="https://kulbir-singh-ahluwalia.com">Personal Website</a> • 🎓 <a href="https://scholar.google.com/citations?user=rXq-2HYAAAAJ">Google Scholar</a>
+</p>
