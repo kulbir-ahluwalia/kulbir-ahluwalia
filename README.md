@@ -7,7 +7,7 @@
 
 ---
 
-Welcome! I'm a Ph.D. candidate in Computer Science at the University of Illinois, Urbana-Champaign (UIUC), advised by Prof. Girish Chowdhary and Prof. Julia Hockenmaier at the Distributed Autonomous Systems Laboratory (DASLAB). 
+Welcome! I'm a Ph.D. candidate in Computer Science at the University of Illinois, Urbana-Champaign (UIUC). I work at the intersection of Robotics and Natural Language Processing, co-advised by Prof. Girish Chowdhary at the Distributed Autonomous Systems Laboratory (DASLAB) and Prof. Julia Hockenmaier at the Hockenmaier Lab (HMR Lab). 
 
 My research is dedicated to scaling up **Physical AI**—focusing on natural language grounding, visual navigation, and Multi-Modal Vision-Language Models (MLLMs) for agricultural and mobile robots. By bridging advanced AI with real-world robotics, I aim to build autonomous systems that can reliably solve critical challenges in unstructured environments.
 
@@ -24,5 +24,5 @@ I actively develop state-of-the-art NLP and Computer Vision pipelines, working e
 </p>
 
 <p align="center">
-  🌍 <a href="https://kulbir-singh-ahluwalia.com">Personal Website</a> • 🎓 <a href="https://scholar.google.com/citations?user=rXq-2HYAAAAJ">Google Scholar</a>
+  🌍 <a href="https://kulbir-singh-ahluwalia.com">Personal Website</a> • 🎓 <a href="https://scholar.google.com/citations?user=rXq-2HYAAAAJ">Google Scholar</a> • 🏠 <a href="https://hmr-lab.github.io/">HMR Lab @ UIUC</a>
 </p>
