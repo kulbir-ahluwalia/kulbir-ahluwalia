@@ -7,7 +7,7 @@
 
 ---
 
-Welcome! I'm a Ph.D. student at the University of Illinois Urbana-Champaign (UIUC), working at the intersection of Robotics and NLP. I have been advised by Prof. Katie Driggs-Campbell ([Human-Centered Autonomy Lab](https://thehcalab.web.illinois.edu/)) since November 2026. I was previously advised by Prof. Girish Chowdhary (2022-2026), and I continue to collaborate with Prof. Julia Hockenmaier.
+Welcome! I'm a Ph.D. student at the University of Illinois Urbana-Champaign (UIUC), working at the intersection of Robotics and NLP. I have been advised by Prof. Katherine Driggs-Campbell ([Human-Centered Autonomy Lab](https://thehcalab.web.illinois.edu/)) since November 2026. I was previously advised by Prof. Girish Chowdhary (2022-2026), and I continue to collaborate with Prof. Julia Hockenmaier.
 
 My mission is scaling up **Physical AI**. I build autonomous systems that bridge SOTA Vision-Language Models (VLMs) with time-tested control theory and path planning. My focus? Unstructured, **OUTDOOR In-the-Wild environments** for agricultural and mobile robots. I want robots that think semantically, reason spatially and recover autonomously from any navigation failures without most luxuries of an indoor lab such as stable internet, cameras, lighting, power supplies, no occlusions, or perfectly flat floors.
 
